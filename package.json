@@ -10,6 +10,6 @@
   "scripts": {
     "start": "node callback-example.js"
   },
-  "author": "nandha",
+  "author": "vinay",
   "license": "ISC"
 }
